@@ -43,7 +43,7 @@ export default function Home() {
             href="https://careers.hubani.org"
             className="inline-flex items-center gap-2 rounded bg-black px-4 py-2 text-xs font-semibold text-white hover:bg-neutral-800 transition-colors shadow-xs"
           >
-            <span>Explore Open Careers</span>
+            <span>Explore Careers Hub</span>
             <span aria-hidden="true">↗</span>
           </a>
           <a
@@ -172,7 +172,7 @@ export default function Home() {
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
           <div className="space-y-1">
             <span className="rounded bg-neutral-100 px-2 py-0.5 text-xs font-medium text-neutral-800 border border-neutral-200">
-              Careers Portal
+              Careers Hub
             </span>
             <h2 className="text-lg font-semibold text-black tracking-tight">
               Join Our Executive &amp; Engineering Teams
@@ -214,7 +214,7 @@ export default function Home() {
             <div>
               <span className="font-semibold text-neutral-900">Official Portal: </span>
               <a href="https://hubani.org" className="text-black font-medium">
-                hubani.org
+                Visit Hubani
               </a>
             </div>
           </div>

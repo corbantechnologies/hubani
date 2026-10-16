@@ -143,7 +143,7 @@ export async function sendInquirerConfirmationEmail(
           </div>
 
           <p style="font-size: 13px; line-height: 1.6; color: #374151; margin-bottom: 20px;">
-            For career inquiries and applications, please visit our official careers platform at <a href="https://careers.hubani.org" style="color: #000000; font-weight: 600;">careers.hubani.org</a>.
+            For career inquiries and applications, please visit our <a href="https://careers.hubani.org" style="color: #000000; font-weight: 600;">Careers Hub</a>.
           </p>
 
           <div style="border-top: 1px solid #e5e7eb; padding-top: 16px; font-size: 12px; color: #6b7280;">

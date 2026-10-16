@@ -47,7 +47,7 @@ export default function Navbar() {
             href="https://careers.hubani.org"
             className="inline-flex items-center gap-1 rounded bg-black px-3 py-1.5 text-xs font-semibold text-white hover:bg-neutral-800 transition-colors"
           >
-            <span>Careers</span>
+            <span>Careers Hub</span>
             <span aria-hidden="true">↗</span>
           </a>
         </nav>

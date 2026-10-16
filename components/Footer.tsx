@@ -44,7 +44,7 @@ export default function Footer() {
                 href="https://careers.hubani.org"
                 className="hover:text-black transition-colors"
               >
-                Careers ↗
+                Careers Hub ↗
               </a>
               <a
                 href="mailto:info@hubani.org"
@@ -53,8 +53,16 @@ export default function Footer() {
                 info@hubani.org
               </a>
             </div>
-            <p className="text-xs text-neutral-400 pt-2">
-              © 2026 Hubani Limited. All rights reserved.
+            <p className="text-xs text-neutral-400 pt-2 sm:text-right">
+              © 2026 Hubani Limited. All rights reserved. Powered by{" "}
+              <a
+                href="https://www.corbantechnologies.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-black font-medium transition-colors hover:text-black"
+              >
+                Corban Technologies LTD
+              </a>
             </p>
           </div>
         </div>

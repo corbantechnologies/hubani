@@ -322,16 +322,16 @@ export default function ContactPage() {
 
           <div className="rounded border border-neutral-200 bg-white p-4 text-xs text-neutral-600 space-y-2">
             <h3 className="text-xs font-semibold text-neutral-950">
-              Careers Portal
+              Careers Hub
             </h3>
             <p className="text-[11px] leading-relaxed">
-              If your message is an application for our open executive or engineering positions, please submit directly on the careers portal.
+              If your message is an application for our open executive or engineering positions, please submit directly on the Careers Hub.
             </p>
             <a
               href="https://careers.hubani.org"
               className="inline-flex items-center gap-1 rounded bg-black px-3 py-1.5 text-xs font-semibold text-white hover:bg-neutral-800 transition-colors"
             >
-              <span>Go to Careers Portal</span>
+              <span>Go to Careers Hub</span>
               <span aria-hidden="true">↗</span>
             </a>
           </div>
