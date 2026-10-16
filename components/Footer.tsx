@@ -30,7 +30,7 @@ export default function Footer() {
           </div>
 
           <div className="flex flex-col gap-2 sm:items-end">
-            <div className="flex flex-wrap items-center gap-4 text-xs font-medium text-neutral-700">
+            <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs font-medium text-neutral-700">
               <a href="/#about" className="hover:text-black transition-colors">
                 About
               </a>
@@ -53,18 +53,22 @@ export default function Footer() {
                 info@hubani.org
               </a>
             </div>
-            <p className="text-xs text-neutral-400 pt-2 sm:text-right">
-              © 2026 Hubani Limited. All rights reserved. Powered by{" "}
-              <a
-                href="https://www.corbantechnologies.org/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-black font-medium transition-colors hover:text-black"
-              >
-                Corban Technologies LTD
-              </a>
-            </p>
           </div>
+        </div>
+
+        <div className="mt-6 flex flex-col gap-1 border-t border-neutral-200 pt-4 text-xs text-neutral-500 sm:flex-row sm:items-center sm:justify-between">
+          <p>© 2026 Hubani Limited. All rights reserved.</p>
+          <p>
+            Powered by{" "}
+            <a
+              href="https://www.corbantechnologies.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-black hover:underline"
+            >
+              Corban Technologies LTD
+            </a>
+          </p>
         </div>
       </div>
     </footer>
