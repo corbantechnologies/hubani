@@ -188,7 +188,7 @@ export default function Home() {
             href="https://careers.hubani.org"
             className="inline-flex items-center justify-center gap-2 rounded bg-black px-4 py-2.5 text-xs font-semibold text-white hover:bg-neutral-800 transition-colors self-start sm:self-auto shadow-xs"
           >
-            <span>View Opportunities at careers.hubani.org</span>
+            <span>View Opportunities at Careers Hub</span>
             <span aria-hidden="true">↗</span>
           </a>
         </div>

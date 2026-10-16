@@ -304,7 +304,7 @@ export default function ContactPage() {
               <p className="text-[11px] text-neutral-500">
                 Looking for open positions? Visit{" "}
                 <a href="https://careers.hubani.org" className="underline font-semibold text-black">
-                  careers.hubani.org
+                  Careers Hub
                 </a>
               </p>
             </div>
