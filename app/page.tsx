@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="mx-auto max-w-5xl px-4 py-10 sm:px-6 sm:py-16 space-y-16">
+    <div className="w-full px-4 py-10 sm:px-6 sm:py-16 lg:px-10 space-y-16">
       {/* Hero Section */}
       <section className="space-y-4 border-b border-neutral-200 pb-12">
         <div className="inline-flex items-center gap-2 rounded border border-neutral-200 bg-neutral-50 px-2.5 py-1 text-xs font-medium text-neutral-800">
